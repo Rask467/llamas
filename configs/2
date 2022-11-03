@@ -1,0 +1,11 @@
+{
+  "name": "Llamas #2",
+  "description": "Llamas",
+  "image": "ipfs://Qmbjww3WjFMrfUFUceFvWQEgWPS32dNDpcGC4FrrLGatS4/2.png",
+  "attributes": [
+    {
+      "trait_type": "Test",
+      "value": "Test2"
+    }
+  ]
+}
